@@ -12,5 +12,9 @@ public class MainActivity extends AppCompatActivity {
 
 
         String hi = "jksd";
+
+        int one = 1;
+
+
     }
 }
